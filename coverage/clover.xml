@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1775616764616" clover="3.2.0">
+  <project timestamp="1775616764616" name="All files">
+    <metrics statements="39" coveredstatements="28" conditionals="17" coveredconditionals="14" methods="8" coveredmethods="6" elements="64" coveredelements="48" complexity="0" loc="39" ncloc="39" packages="3" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="11" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.ts" path="/home/jorus/Desktop/test-collab/src/index.ts">
+        <metrics statements="11" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.controllers">
+      <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="calculatorController.ts" path="/home/jorus/Desktop/test-collab/src/controllers/calculatorController.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="40" type="stmt"/>
+        <line num="6" count="40" type="stmt"/>
+        <line num="9" count="40" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="13" type="stmt"/>
+        <line num="13" count="13" type="stmt"/>
+        <line num="16" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+        <line num="25" count="14" type="stmt"/>
+        <line num="32" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="14" coveredstatements="14" conditionals="7" coveredconditionals="7" methods="5" coveredmethods="5"/>
+      <file name="calculatorService.ts" path="/home/jorus/Desktop/test-collab/src/services/calculatorService.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="7" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="1" count="28" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="22" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="8" count="19" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="52" type="cond" truecount="5" falsecount="0"/>
+        <line num="14" count="18" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="22" count="13" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
