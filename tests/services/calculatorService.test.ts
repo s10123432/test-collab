@@ -4,7 +4,7 @@ import {
   mul,
   div,
   calculator,
-} from '../services/calculatorService';
+} from '../../src/services/calculatorService';
 
 describe('Calculator Service - Basic Operations', () => {
   describe('sum', () => {

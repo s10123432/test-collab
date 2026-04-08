@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import { calculateHandler } from '../controllers/calculatorController';
+import { calculateHandler } from '../../src/controllers/calculatorController';
 
 describe('Calculator Controller', () => {
   let mockRequest: Partial<Request>;
